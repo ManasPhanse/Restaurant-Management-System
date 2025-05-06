@@ -27,16 +27,16 @@ Enter your choice: 4
 4. Back to Main Menu
 Enter your sort choice (1-4): 1
 
-+----+---------------------+-------------+----------------+----------+-------+---------------+---------------------+----------+-----------+
-| ID |     Order Date      | Order Type  |  Veg/Non-Veg   | Quantity | Price | Price per Qty |    Ordered Dish     | Table ID | Waiter ID |
-+----+---------------------+-------------+----------------+----------+-------+---------------+---------------------+----------+-----------+
-| 1  | 2025-05-06 19:45:45 |    drink    |   Vegetarian   |    2     |  150  |      300      |       Mojito        |    1     |     1     |
-| 2  | 2025-05-06 19:45:45 |    soup     | Non-vegetarian |    1     |  200  |      200      |    Chicken Soup     |    2     |     2     |
-| 3  | 2025-05-06 19:45:45 |  appetizer  |   Vegetarian   |    3     |  100  |      300      |    Onion Pakoras    |    3     |     3     |
-| 4  | 2025-05-06 19:45:45 | main course | Non-vegetarian |    1     |  500  |      500      |   Butter Chicken    |    1     |     2     |
-| 5  | 2025-05-06 19:45:45 |   dessert   |   Vegetarian   |    2     |  250  |      500      |  Vanilla Ice Cream  |    2     |     1     |
-| 8  | 2025-05-06 20:30:19 | main course |   Vegetarian   |    1     |  200  |      200      | Paneer Tikka Masala |    2     |     3     |
-+----+---------------------+-------------+----------------+----------+-------+---------------+---------------------+----------+-----------+
++----+---------------------+-------------+----------------+----------+-------+---------------+---------------------+----------+-----------+ -m
+| ID |     Order Date      | Order Type  |  Veg/Non-Veg   | Quantity | Price | Price per Qty |    Ordered Dish     | Table ID | Waiter ID | -m
++----+---------------------+-------------+----------------+----------+-------+---------------+---------------------+----------+-----------+ -m
+| 1  | 2025-05-06 19:45:45 |    drink    |   Vegetarian   |    2     |  150  |      300      |       Mojito        |    1     |     1     | -m
+| 2  | 2025-05-06 19:45:45 |    soup     | Non-vegetarian |    1     |  200  |      200      |    Chicken Soup     |    2     |     2     | -m
+| 3  | 2025-05-06 19:45:45 |  appetizer  |   Vegetarian   |    3     |  100  |      300      |    Onion Pakoras    |    3     |     3     | -m
+| 4  | 2025-05-06 19:45:45 | main course | Non-vegetarian |    1     |  500  |      500      |   Butter Chicken    |    1     |     2     | -m
+| 5  | 2025-05-06 19:45:45 |   dessert   |   Vegetarian   |    2     |  250  |      500      |  Vanilla Ice Cream  |    2     |     1     | -m
+| 8  | 2025-05-06 20:30:19 | main course |   Vegetarian   |    1     |  200  |      200      | Paneer Tikka Masala |    2     |     3     | -m
++----+---------------------+-------------+----------------+----------+-------+---------------+---------------------+----------+-----------+ -m
 
 ===== Restaurant Order Management System =====
 1. Place an order
